@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    font-size: 24px;
+}
+.app {
+    width: 320px;
+    height: 470px;
+    position: relative;
+}
+
+.calc-body {
+    background: #D4D4D2;
+}
+
+.result {
+    background: #1C1C1C;
+    color: white;
+    margin: 0;
+    padding-top: 25px;
+    height: 90px;
+
+}
+
+.result-text {
+    margin: 0;
+}

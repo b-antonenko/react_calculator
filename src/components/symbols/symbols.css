@@ -1,0 +1,14 @@
+.symb {
+    background: #FF9500;
+    width: 80px;
+    height: 70px;
+    color: white;
+}
+
+#count {
+    width: 320px;
+    height: 80px;
+    background: #34DA4F;
+    color: white;
+    font-size: 35px;
+}
